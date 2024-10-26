@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -10,10 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: 
 
-news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I'm a final year undergraduate student at [BITS Pilani](https://www.bits-pilani.ac.in/goa/) pursuing a BE in Computer Science. I'm currently pursuing my undergraduate thesis at [R-PAD Lab](https://r-pad.github.io/), [Carnegie Mellon Univeristy](https://www.ri.cmu.edu/) co-advised by [Prof. David Held](https://www.ri.cmu.edu/ri-faculty/david-held/) and [Prof. Zackory Erickson](https://zackory.com/) where I'm working on robot learning for deformable object manipulation. I'm broadly interested in robots that can learn to do interesting things. 
